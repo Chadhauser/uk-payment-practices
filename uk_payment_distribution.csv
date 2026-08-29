@@ -1,0 +1,4 @@
+measure,n,p10,q1,median,q3,p90
+average_days_to_pay,105237,15,24,33,46,58
+pct_invoices_not_paid_on_time,105354,2,8,20,39,62
+standard_payment_terms_days,84792,2,7,30,30,45
