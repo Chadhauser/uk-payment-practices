@@ -1,0 +1,23 @@
+{
+  "upload_type": "dataset",
+  "title": "UK Payment Practices 2017-2026",
+  "description": "<p>Aggregated UK statutory payment practices reporting, 2017 to 2026. Built from the complete public record of reports filed under the Reporting on Payment Practices and Performance Regulations 2017.</p><p>Three aggregate CSVs: trend by year, distribution of payment performance, and promise versus practice (agreed terms against actual payment).</p><p>Published by Finance Clearly, a publication of Edwards Bros (Spaldwick) Ltd.</p>",
+  "creators": [
+    {
+      "name": "Edwards, Peter",
+      "affiliation": "Finance Clearly"
+    }
+  ],
+  "keywords": [
+    "payment practices",
+    "late payment",
+    "UK",
+    "small business",
+    "open data",
+    "supplier payment",
+    "Companies House"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng"
+}
